@@ -1,4 +1,4 @@
 #!/bin/sh
 git add -A
-git commit -am "init `date`"
+git commit -am "不平衡数据 `date`"
 git push
