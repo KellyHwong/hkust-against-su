@@ -4,18 +4,7 @@ hkust-againt-su
 
 香港科技大学反对学生会不透明收取、使用学生会会费
 
-## 诉求
-
-Dear Prof. and President Shyy,
-I/We have a strong suggestion to change the student union and representative framework.
-We share the same ideas such as being open-minded, keeping diversity, and democracy, especially in which we need communication and negotiation.
-However, democracy becomes the tyranny of the majority sometimes, as history shows.
-In this current status, we strongly suggest, lower down the power of the student union. We have several terms.
-First step, release the most recent financial report, such as, why and where the SU membership fee goes.
-Secondly, cancel membership fee collection agency by the HKUST office.
-Thirdly, let SU be a common student group such as other student groups, take off the meaning of official authority from the whole HKUST.
-
-## 会费
+## Letter 1
 
 Dear finance office,
 
@@ -30,3 +19,21 @@ I am a PG student, and writing to you about the unreasonable payment mechanism o
 4. There's no clear instruction as to how may student withdraw from the SU payment program. It is to the interest of justice that the school ought to provide the student with clear instructions as to how should students drop out from the SU membership scheme.
 
 Best Regards,
+
+## Letter 2
+
+Dear Prof. Chow,
+I/We suggest to cancel/update the student membership fee collection by the university.
+We have several reasonable reasons.
+
+President Shyy shared his ideas about being open-minded, protecting diversity, we all admire that.
+And this is why we appreciate and acknowledge HKUST.
+So in common, any student group in ust is as equal as each other, however, the SU use this kind and convenient auto collection by the university, to make themselves the Authority of students. This is not fair for other groups, and does NOT fit the idea of our school.
+
+Also as some voice on the wall in the atrium from students, they suggest we don’t pay the fee. We take that proposal. BUT, please keep updating the SIS system. Now it is still very inconvenient to avoid The fee payment.
+
+As the same for other student groups, who collect the membership fee themselves, SU should also follow this to fit the ust idea of equality.
+
+Sorry for bothering,
+
+Best Regards.
