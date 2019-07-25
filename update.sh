@@ -1,4 +1,4 @@
 #!/bin/sh
 git add -A
-git commit -am "update `date`"
+git commit -am "会费模板 `date`"
 git push

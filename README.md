@@ -37,3 +37,14 @@ As the same for other student groups, who collect the membership fee themselves,
 Sorry for bothering,
 
 Best Regards.
+
+## 会费模板
+
+Dear Prof. King CHOW,
+
+I am a PG student, and writing to you about the payment to SU annual membership fee.
+It is to our greatest concern that the SU annual membership fee payment is integrated to the HKUST tuition fee. More often than not, students pay the fee without noticing the fact that the tuition fees are integrated with SU fee. Moreover, there's no clear instruction as to how may student withdraw from the SU payment program . It is to the interest of justice that the school ought to notice student with the SU fee actively and provide student with clear instructions as to how should students drop out from the SU membership scheme.
+Last but not least, HKUST SU has been a provisional student body from many years, without enough vote and recognition from students . We are worried about the misuse of our SU fee by the SU council, as all the fiscal and administrative decisions from SU council lack the support from the student. We, therefore, would like to urgent the school to investigate into the possibility of corruption and misuse of SU funding to uphold the value of integrity
+I wish you all the best.
+Best,
+AAAAAA
